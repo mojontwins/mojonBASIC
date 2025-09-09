@@ -1,26 +1,26 @@
-Check 34EC7CF2
+Check 9C039758
 Auto 8224
 
 # Run-time Variables
 
-Var w: Num = 12
-Var a: Num = 9
+Var w: Num = 3
+Var a: Num = 3
 Var x: Num = 0
 Var y: Num = 0
-Var j: Num = 3
+Var j: Num = 6
 Var z: Num = 0
-Var d: Num = 64348
-Var n: Num = 29
+Var d: Num = 64180
+Var n: Num = 25
 Var t: Num = 1
-Var r: Num = 64306
+Var r: Num = 64138
 Var h: Num = 0
-Var s: Num = 7
-Var q: Num = 18
+Var s: Num = 100
+Var q: Num = 13
 Var m: Num = 0
-Var on: Num = 29
+Var on: Num = 25
 Var o: NumArray(8) = 0, 0, 0, 0, 0, 0, 0, 0
 Var f: NumArray(8) = 0, 0, 0, 0, 0, 0, 0, 0
-Var i: NumFOR = 3, 6, 1, 3, 2
+Var i: NumFOR = 0, 6, 1, 3, 2
 Var q$: Str = "\{i1}"
 Var r$: Str = "\{i2}"
 Var s$: Str = "\{i3}"
@@ -28,16 +28,16 @@ Var t$: Str = "\{i4}"
 Var u$: Str = "\{i5}"
 Var v$: Str = "\{i6}"
 Var w$: Str = "\{i7}"
-Var a$: Str = "\a\b"
-Var b$: Str = "\c\d"
-Var c$: Str = "\e\f"
-Var d$: Str = "\g\h"
-Var m$: Str = "Uf!! Por los pelos!!"
-Var n$: Str = ""
+Var a$: Str = "\i\j"
+Var b$: Str = "\k\l"
+Var c$: Str = "\m\n"
+Var d$: Str = "\o\p"
+Var n$: Str = "la llave del calabozo."
+Var m$: Str = "Has usado . . ."
 Var k$: Str = ""
-Var x$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}b\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i5}d\{i4}a\{i4}a\{i4}b\{i7}g\{i7}g\{i4}b\{i4}a\{i4}i\{i4}j\{i4}k\{i3}p\{i5}_\{i5}_\{i6}t\{i6}u\{i6}v\{i5}_\{i5}_\{i5}_\{i6}\@\{i6}A\{i6}B\{i5}_\{i5}_\{i5}_\{i7}T\{i7}~\{i7}U\{i2}E\{i2}~\{i2}E\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i3}p\{i3}p\{i5}_\{i3}p\{i3}p\{i5}_\{i5}_\{i5}_\{i5}_\{i1}\q\{i1}\r\{i1}\s\{i7}\t\{i7}\u\{i5}_\{i2}\`\{i2}\`\{i2}\`\{i2}T\{i2}U\{i4}b\{i5}_\{i5}_\{i5}_\{i2}E\{i2}~\{i2}E\{i4}i\{i4}j\{i4}k                           "
-Var y$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}b\{i4}a\{i4}b\{i4}b\{i4}c\{i4}b\{i4}b\{i5}e\{i4}b\{i4}b\{i4}a\{i7}g\{i7}g\{i4}b\{i4}a\{i4}l\{i4}b\{i4}n\{i3}q\{i5}_\{i5}_\{i6}w\{i6}x\{i6}y\{i2}z\{i2}{\{i2}|\{i5}_\{i6}A\{i5}_\{i6}C\{i6}D\{i5}_\{i6}E\{i6}E\{i6}E\{i2}E\{i5}F\{i2}E\{i4}G\{i4}H\{i7}g\{i7}g\{i4}I\{i5}_\{i3}L\{i3}M\{i5}_\{i7}z\{i7}{\{i5}_\{i3}q\{i3}q\{i5}_\{i4}W\{i4}p\{i4}I\{i1}\s\{i1}\q\{i1}\r\{i5}_\{i7}\t\{i7}\u\{i2}\`\{i2}\`\{i2}\`\{i2}P\{i2}Q\{i4}a\{i1}T\{i1}U\{i1}~\{i2}E\{i2}~\{i2}E\{i4}l\{i5}F\{i4}m                           "
-Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}c\{i4}a\{i5}f\{i4}b\{i4}a\{i4}a\{i7}h\{i7}h\{i4}a\{i4}a\{i4}m\{i4}a\{i4}o\{i3}r\{i3}s\{i5}_\{i4}b\{i4}a\{i4}b\{i2}}\{i2}~\{i2}\*\{i4}_\{i6}A\{i5}_\{i6}E\{i6}E\{i5}_\{i6}E\{i6}E\{i6}E\{i2}E\{i2}~\{i2}E\{i4}\@\{i5}J\{i4}D\{i5}J\{i4}K\{i5}_\{i3}N\{i3}O\{i5}_\{i7}V\{i7}V\{i7}\''\{i7}s\{i7}s\{i5}_\{i2}X\{i2}X\{i2}X\{i1}\q\{i1}\r\{i1}\s\{i7}\u\{i7}\t\{i5}_\{i2}\`\{i2}\`\{i2}\`\{i2}R\{i2}S\{i4}a\{i6}V\{i6}V\{i7}V\{i2}E\{i2}~\{i2}E\{i4}m\{i4}a\{i4}o                           "
+Var x$: StrArray(27, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}b\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i5}d\{i4}a\{i4}a\{i4}b\{i7}g\{i7}g\{i4}b\{i4}a\{i4}i\{i4}j\{i4}k\{i3}p\{i5}_\{i5}_\{i6}t\{i6}u\{i6}v\{i5}_\{i5}_\{i5}_\{i6}\@\{i6}A\{i6}B\{i5}_\{i5}_\{i5}_\{i7}T\{i7}~\{i7}U\{i2}E\{i2}~\{i2}E\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i5}_\{i3}p\{i3}p\{i5}_\{i3}p\{i3}p\{i5}_\{i5}_\{i5}_\{i5}_\{i1}\q\{i1}\r\{i1}\s\{i7}\t\{i7}\u\{i5}_\{i2}\`\{i2}\`\{i2}\`\{i2}T\{i2}U\{i4}b\{i5}_\{i5}_\{i5}_\{i2}E\{i2}~\{i2}E\{i4}i\{i4}j\{i4}k"
+Var y$: StrArray(27, 9) = "\{i5}_\{i5}_\{i5}_\{i4}b\{i4}a\{i4}b\{i4}b\{i4}c\{i4}b\{i4}b\{i5}e\{i4}b\{i4}b\{i4}a\{i7}g\{i7}g\{i4}b\{i4}a\{i4}l\{i4}b\{i4}n\{i3}q\{i5}_\{i5}_\{i6}w\{i6}x\{i6}y\{i2}z\{i2}{\{i2}|\{i5}_\{i6}A\{i5}_\{i6}C\{i6}D\{i5}_\{i6}E\{i6}E\{i6}E\{i2}E\{i5}F\{i2}E\{i4}G\{i4}H\{i7}g\{i7}g\{i4}I\{i5}_\{i3}L\{i3}M\{i5}_\{i7}z\{i7}{\{i5}_\{i3}q\{i3}q\{i5}_\{i4}W\{i4}p\{i4}I\{i1}\s\{i1}\q\{i1}\r\{i5}_\{i7}\t\{i7}\u\{i2}\`\{i2}\`\{i2}\`\{i2}P\{i2}Q\{i4}a\{i1}T\{i1}U\{i1}~\{i2}E\{i2}~\{i2}E\{i4}l\{i5}F\{i4}m"
+Var z$: StrArray(27, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}c\{i4}a\{i5}f\{i4}b\{i4}a\{i4}a\{i7}h\{i7}h\{i4}a\{i4}a\{i4}m\{i4}a\{i4}o\{i3}r\{i3}s\{i5}_\{i4}b\{i4}a\{i4}b\{i2}}\{i2}~\{i2}\*\{i4}_\{i6}A\{i5}_\{i6}E\{i6}E\{i5}_\{i6}E\{i6}E\{i6}E\{i2}E\{i2}~\{i2}E\{i4}\@\{i5}J\{i4}D\{i5}J\{i4}K\{i5}_\{i3}N\{i3}O\{i5}_\{i7}V\{i7}V\{i7}\''\{i7}s\{i7}s\{i5}_\{i2}X\{i2}X\{i2}X\{i1}\q\{i1}\r\{i1}\s\{i7}\u\{i7}\t\{i5}_\{i2}\`\{i2}\`\{i2}\`\{i2}R\{i2}S\{i4}a\{i6}V\{i6}V\{i7}V\{i2}E\{i2}~\{i2}E\{i4}m\{i4}a\{i4}o"
 
 # End Run-time Variables
 
@@ -49,8 +49,9 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
    7 PRINT z$(PEEK d);: LET d=d+1: PRINT z$(PEEK d);: LET d=d+1: PRINT z$(PEEK d);: LET d=d+1: PRINT z$(PEEK d);: LET d=d+1: PRINT z$(PEEK d);: LET d=d+1: PRINT z$(PEEK d);: LET d=d+1: PRINT z$(PEEK d): LET d=d+1
    8 NEXT i: PRINT AT 20,0; PAPER 6,,,,;: RETURN
    9 REM ENTERING
-  10 IF n=32 THEN IF NOT a THEN LET a=3: GO TO 240
+  10 IF n=32 THEN IF NOT a THEN LET a=3: LET m=0: GO TO 240
   11 IF n=34 THEN IF NOT o(6) THEN PRINT AT 7,10; PAPER 1; INK 5;"#";: GO TO 240
+  12 IF n=31 THEN IF a=18 THEN LET a=15: LET m=1: GO TO 240
   18 GO TO 240
   19 REM MOVIMIENTO
   20 IF z<>0 THEN GO TO 30
@@ -60,10 +61,10 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
   24 IF k$="q" THEN GO TO 120
   25 IF k$="a" THEN GO TO 130
   30 IF z=0 THEN RETURN
-  31 IF x=-1 THEN LET a=a-1: PRINT AT w,a; INK 7;a$; INK 5;"_";AT w+1,a; INK 7;b$; INK 5;"_";AT w+2,a; INK 7;c$ AND z<>2;d$ AND z=2; INK 5;"_";: GO TO 40
-  32 IF x=1 THEN PRINT AT w,a; INK 5;"_"; INK 7;a$;AT w+1,a; INK 5;"_"; INK 7;b$;AT w+2,a; INK 5;"_"; INK 7;c$ AND z<>2;d$ AND z=2;: LET a=a+1: GO TO 40
-  33 IF y=-1 THEN LET w=w-1: PRINT AT w,a; INK 7;a$;AT w+1,a;b$;AT w+2,a;c$ AND z<>2;d$ AND z=2; INK 5;AT w+3,a;"__";: GO TO 40
-  34 IF y=1 THEN PRINT AT w,a; INK 5;"__";AT w+1,a; INK 7;a$;AT w+2,a;b$;AT w+3,a;c$ AND z<>2;d$ AND z=2;: LET w=w+1
+  31 IF x=-1 THEN LET a=a-1: PRINT AT w,a; INK 7;a$; INK 5;"_";AT w+1,a; INK 7;b$; INK 5;"_";AT w+2,a; INK 7;c$ AND z=1;d$ AND z<>1; INK 5;"_";: GO TO 40
+  32 IF x=1 THEN PRINT AT w,a; INK 5;"_"; INK 7;a$;AT w+1,a; INK 5;"_"; INK 7;b$;AT w+2,a; INK 5;"_"; INK 7;c$ AND z=1;d$ AND z<>1;: LET a=a+1: GO TO 40
+  33 IF y=-1 THEN LET w=w-1: PRINT AT w,a; INK 7;a$;AT w+1,a;b$;AT w+2,a;c$ AND z=1;d$ AND z<>1; INK 5;AT w+3,a;"__";: GO TO 40
+  34 IF y=1 THEN PRINT AT w,a; INK 5;"__";AT w+1,a; INK 7;a$;AT w+2,a;b$;AT w+3,a;c$ AND z=1;d$ AND z<>1;: LET w=w+1
   40 LET z=z-1: IF z=0 THEN LET x=0: LET y=0
   49 RETURN
   50 PRINT INK 7;AT w,a;a$;AT w+1,a;b$;AT w+2,a;c$;: RETURN
@@ -90,9 +91,10 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
  199 REM BUCLE PRINCIPAL
  200 GO SUB 2: GO SUB 50: LET on=n
  230 POKE 23672,0: GO TO 10
- 240 IF NOT h THEN GO SUB 20: IF PEEK 23672>50 THEN POKE 23672,0: GO TO 510
+ 240 IF NOT h THEN GO SUB 20
  250 IF n<>on THEN GO TO 200
  260 IF INKEY$=" " AND w>0 THEN GO TO 300
+ 270 IF NOT m THEN IF PEEK 23672>50 THEN POKE 23672,0: GO TO 510
  290 GO TO 240
  299 REM PRESSED FIRE!
  300 IF h THEN BEEP .1,0: BEEP .1,10: BEEP .1,-10: GO SUB 50: LET h=0: GO TO 240
@@ -101,15 +103,28 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
  315 IF t=12 THEN GO TO 500
  320 IF t=14 THEN GO TO 600
  325 IF t=24 THEN GO TO 700
- 330 IF t=23 AND NOT o(5) THEN LET o(5)=1: GO SUB 9605: LET m$="Entre la arena removida": LET n$="encuentras un gusano guarro": GO SUB 9400: GO TO 240
+ 330 IF t=23 AND NOT o(5) THEN LET m$="Entre la arena removida": LET n$="encuentras un gusano guarro": GO SUB 9400: LET o(5)=1: GO SUB 9605: GO TO 240
  335 IF t=25 AND NOT o(6) THEN GO TO 930
  340 IF t=15 OR t=16 THEN GO TO 800
  350 IF n=7 AND w=15 AND a=15 THEN GO TO 810
- 360 IF n=31 AND w=6 AND a=15 THEN IF o(1) THEN LET i=18: LET j=6: LET t=1: GO SUB 9500: BEEP .2,0: BEEP .5,-5: GO TO 240
- 361 IF n=32 AND w=6 AND a=3 THEN LET m$="Menso! No se te ha perdido": LET n$="nada en las mazmorras!": GO SUB 9400: BEEP .1,10: GO TO 240
+ 360 IF n=31 AND w=6 AND a=15 THEN GO TO 550
+ 361 IF n=32 AND w=6 AND a=3 THEN GO TO 560
  390 BEEP .2,-10: GO TO 240
  399 REM COFRE
- 498 GO TO 240
+ 400 IF PEEK (63052+n) THEN LET m$="Este cofre ya lo has mirado.": LET n$="Esta vacio": GO SUB 9400: GO TO 240
+ 401 POKE 23052+n,1
+ 409 REM COFRES ESPECIALES
+ 410 LET m$="El cofre contenia..."
+ 411 IF n=20 THEN LET n$="La llave del calabozo!": LET i=1: GO TO 470
+ 412 IF n=5 THEN LET n$="Una botella de aceite!": LET i=3: GO TO 470
+ 413 IF n=7 THEN LET n$="Las llaves de un Renault 5!": LET i=2: GO TO 470
+ 414 IF n=10 THEN LET n$="Una llave de la biblioteca!": LET i=7: GO TO 470
+ 415 IF n=18 THEN LET n$="Un palo de pescar!": LET i=4: GO TO 470
+ 450 REM COFRES GENERALES
+ 460 LET i=25+25*INT (RND*5): LET n$=STR$ (i)+" pesetas!!": LET s=s+i
+ 462 GO SUB 9400: GO SUB 9200: GO TO 240
+ 469 REM COGER OBJETO
+ 470 GO SUB 9400: LET o(i)=1: GO SUB 9601: GO TO 240
  499 REM CAJA
  500 LET i=a: LET j=w: LET t=1: GO SUB 9500: BEEP .1,-10: BEEP .1,5: BEEP .1,15: LET m$="Te has escondido!": LET n$="": GO SUB 9400: LET h=1: GO TO 240
  509 REM TIEMPO
@@ -120,7 +135,12 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
  527 LET i=i+3: IF i=18 THEN LET i=3: LET j=j+3: IF j=15 THEN GO TO 530
  528 GO TO 526
  530 PRINT INT 6;AT j,i;":;";AT j+1,i;"<=";AT j+2,i;">?";: BEEP .1,0: BEEP 1,20: IF h=1 THEN LET m$="Uf!! Por los pelos!!": LET n$="": GO SUB 9400: LET t=1: GO SUB 9500: GO TO 240
- 540 LET m$="'TE HE PILLADO, ZAFORAS'": LET n$="'TE VAS DIRECTO AL CALABOZO'": GO SUB 9400: BEEP 1,-10: BEEP 1,0: LET n=25: LET w=3: LET a=3: GO TO 200
+ 540 LET m$="'TE HE PILLADO, ZAFORAS'": LET n$="'TE VAS DIRECTO AL CALABOZO'": GO SUB 9400: BEEP 1,-10: BEEP 1,0: LET n=25: LET w=3: LET a=3: LET m=1: GO TO 200
+ 549 REM CALABOZO
+ 550 IF o(1) THEN LET i=18: LET j=6: LET t=1: GO SUB 9500: BEEP .2,0: BEEP .5,-5: LET n$="la llave del calabozo.": GO SUB 9110: GO TO 240
+ 551 LET m$="No tienes llave del calabozo.": LET n$="Terminaras tus dias aqui.": GO SUB 9400: BEEP 1,0: BEEP 1,-10: GO SUB 9100: GO TO 2000
+ 560 IF o(1) THEN LET i=0: LET j=6: LET t=1: GO SUB 9500: BEEP .2,0: BEEP .5,-5: LET n$="la llave del calabozo.": GO SUB 9110: GO TO 240
+ 561 LET m$="No tienes llave del calabozo.": LET n$="Aqui no entras.": GO SUB 9400: BEEP 1,0: GO TO 240
  599 REM CERROJO
  698 GO TO 240
  699 REM ESTANTERIAS
@@ -133,9 +153,15 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
  829 REM PECERA
  848 GO TO 240
 1000 GO SUB 9998: CLS
-1010 LET n=29: LET w=9: LET a=9: LET h=0: LET q=40: LET a$="\a\b": LET b$="\c\d": LET c$="\e\f": LET d$="\g\h"
-1020 GO SUB 9700: GO SUB 9300
+1010 LET n=29: LET w=9: LET a=9: LET h=0: LET q=40: LET s=0: LET a$="\a\b": LET b$="\c\d": LET c$="\e\f": LET d$="\g\h"
+1020 GO SUB 9700: GO SUB 9300: GO SUB 9200
 1030 GO TO 200
+2000 GO SUB 9998: PRINT PAPER 6; INK 2;AT 12,10;" GAME  OVER ";: BEEP 1,10: GO SUB 9100: GO TO 1000
+9100 IF INKEY$<>"" THEN GO TO 9100
+9101 IF INKEY$="" THEN GO TO 9101
+9102 RETURN
+9110 LET m$="Has usado . . .": GO TO 9400
+9200 GO SUB 9998: PRINT AT 12,23;"0" AND d<1000;"0" AND d<100;"0" AND d<10;d;" Pts": GO SUB 9999: RETURN
 9300 PRINT PAPER 6; INK 0;AT 0,22;"INVENTARIO";AT 10,22;"  DINERO  ";AT 14,22;"   IGOR   ";: RETURN
 9400 GO SUB 9998: PRINT AT 20,0; PAPER 6; INK 1;,,,,;AT 20,1;m$;AT 21,1;n$;: GO SUB 9999: RETURN
 9500 PRINT AT j,i;x$(t);AT j+1,i;y$(t);AT j+2,i;z$(t): RETURN
@@ -148,10 +174,11 @@ Var z$: StrArray(30, 9) = "\{i5}_\{i5}_\{i5}_\{i4}a\{i4}a\{i4}b\{i4}a\{i4}a\{i4}
 9607 IF o(7) THEN GO SUB 9999: PRINT AT 7,22; INK 5;"!";: GO SUB 9998: PRINT INK 7;"Biblio.2";
 9608 IF o(8) THEN GO SUB 9999: PRINT AT 8,22; INK 2;"'";: GO SUB 9998: PRINT INK 7;"Diario";
 9609 RETURN
-9700 FOR i=1 TO 8: LET o(i)=0: LET f(i)=0: NEXT i: RETURN : LET m=0: REM INIT. OBJETOS
-9799 STOP
-9800 CLEAR 63087: LOAD "" CODE 63088
-9805 LET w=0: LET a=0: LET i=0: LET x=0: LET y=0: LET j=0: LET z=0: LET d=0: DIM x$(30,9): DIM y$(30,9): DIM z$(30,9): LET a$="": LET b$="": LET c$="": LET d$="": LET k$="": LET n=0: LET on=0: DIM o(8): DIM f(8): LET t=0: LET r=0: LET m$="": LET n$="": LET h=0: LET s=0: LET q=0: LET m=0: BORDER NOT PI: PAPER NOT PI: INK 7: CLS : PRINT AT 11,11;"PREPARANDO": REM LAS VARIABLES MAS USADAS PRIMERO
+9699 REM PREPARAR NUEVO JUEGO
+9700 FOR i=1 TO 8: LET o(i)=0: LET f(i)=0: NEXT i: FOR i=63052 TO 63087: POKE i,0: NEXT i: RETURN
+9799 REM CARGAR E INICIALIZAR
+9800 CLEAR 63051: LOAD "" CODE 63088
+9805 LET w=0: LET a=0: LET i=0: LET x=0: LET y=0: LET j=0: LET z=0: LET d=0: DIM x$(27,9): DIM y$(27,9): DIM z$(27,9): LET a$="": LET b$="": LET c$="": LET d$="": LET k$="": LET n=0: LET on=0: DIM o(8): DIM f(8): LET t=0: LET r=0: LET m$="": LET n$="": LET h=0: LET s=0: LET q=0: LET m=0: BORDER NOT PI: PAPER NOT PI: INK 7: CLS : PRINT AT 11,11;"PREPARANDO": REM LAS VARIABLES MAS USADAS PRIMERO
 9806 DEF FN t()=PEEK 23672+256*PEEK (23676)
 9810 LET q$=CHR$ (16)+CHR$ (1): LET r$=CHR$ (16)+CHR$ (2): LET s$=CHR$ (16)+CHR$ (3): LET t$=CHR$ (16)+CHR$ (4): LET u$=CHR$ (16)+CHR$ (5): LET v$=CHR$ (16)+CHR$ (6): LET w$=CHR$ (16)+CHR$ (7)
 9901 LET x$(1)=u$+"_"+u$+"_"+u$+"_": LET y$(1)=x$(1): LET z$(1)=x$(1)
